@@ -17,7 +17,7 @@ LinkedIn: <a href='https://www.linkedin.com/in/marta-markowicz/'>marta-markowicz
 <br>
 
 # Education
-* Ph.D. in Computer Science
+* Ph.D. in Computer Science (Robotics and Motion Planning)
   * University of Illinois Urbana-Champaign, 2021-Present
 * B.S. in Computer Science, GPA 3.9 
   * University of Minnesota Twin Cities, 2017-2021
@@ -29,8 +29,8 @@ LinkedIn: <a href='https://www.linkedin.com/in/marta-markowicz/'>marta-markowicz
 **Robotics**: Motion planning, SLAM, Kalman Filter, Kinematics, Computer Vision, Autonomous Vehicles<br>
 **Machine Learning**: Deep Learning, Reinforcement Learning<br>
 **Programming Languages**: C++, Python, Java, Node.js, SQL<br>
-**Frameworks and Environments**: ROS, Gazebo, Linux, Git, CUDA, OpenGL, AWS, Qt<br>
-**Electronics**: Microcontrollers, Real-time Systems, Arduino, Altium Designer
+**Frameworks and Environments**: ROS, Gazebo, Linux, Git, PyTorch, CUDA, OpenGL, AWS, Qt<br>
+**Electronics**: Microcontrollers, Real-time Systems, Embedded Systems, Arduino, Altium Designer
 <br>
 <br>
 
