@@ -17,7 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio | replace: '&nbsp;', ' ' | replace: 'Robotics & Motion Planning', '<span class="author__bio-group">Robotics &amp; Motion Planning</span>' | replace: 'Ph.D. Candidate', '<span class="author__bio-group">Ph.D. Candidate</span>' }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">

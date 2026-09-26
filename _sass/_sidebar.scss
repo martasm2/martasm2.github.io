@@ -153,6 +153,11 @@
   }
 }
 
+.author__bio-group {
+  display: inline-block;
+  white-space: nowrap;
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
